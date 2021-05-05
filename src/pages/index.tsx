@@ -168,48 +168,6 @@ const Index = () => (
         Maximize lighthouse score
       </li>
     </ul>
-    <p>Built-in feature from Next.js:</p>
-    <ul>
-      <li>
-        <span role="img" aria-label="coffee">
-          ☕
-        </span>
-        {' '}
-        Minify HTML &amp; CSS
-      </li>
-      <li>
-        <span role="img" aria-label="dash">
-          💨
-        </span>
-        {' '}
-        Live reload
-      </li>
-      <li>
-        <span role="img" aria-label="white_check_mark">
-          ✅
-        </span>
-        {' '}
-        Cache busting
-      </li>
-    </ul>
-    <h2 className="font-semibold text-lg">Our Stater code Philosophy</h2>
-    <ul>
-      <li>Minimal code</li>
-      <li>SEO-friendly</li>
-      <li>
-        <span role="img" aria-label="rocket">
-          🚀
-        </span>
-        {' '}
-        Production-ready
-      </li>
-    </ul>
-    <p>
-      Check our GitHub project for more information about
-      {' '}
-      <a href="https://github.com/ixartz/Next-js-Boilerplate">Nextjs Boilerplate</a>
-      .
-    </p>
   </Main>
 );
 

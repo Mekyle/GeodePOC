@@ -1,6 +1,6 @@
 export const Config = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'Edgeware Geode',
+  title: 'Project Geode',
+  description: 'The first Edgeware WASM NFT DApp',
   locale: 'en',
 };
