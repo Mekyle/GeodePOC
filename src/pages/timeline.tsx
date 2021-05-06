@@ -3,7 +3,7 @@ import React from 'react';
 import { Meta } from '../layout/Meta';
 import { Main } from '../templates/Main';
 
-const Index = () => (
+const Timeline = () => (
   <Main
     meta={
       <Meta
@@ -12,12 +12,10 @@ const Index = () => (
       />
     }
   >
-    <h1 className="font-bold text-2xl">
-      Boilerplate code for your Nextjs project with Tailwind CSS
-    </h1>
+    <h1 className="font-bold text-2xl">Timeline</h1>
     <h2 className="font-semibold text-lg">Next js Boilerplate Features</h2>
     <p>Developer experience first:</p>
   </Main>
 );
 
-export default Index;
+export default Timeline;
